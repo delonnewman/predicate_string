@@ -1,3 +1,3 @@
-module PredicateString
+class PredicateString
   VERSION = "0.1.0"
 end
